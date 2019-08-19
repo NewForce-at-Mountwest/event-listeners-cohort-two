@@ -1,0 +1,41 @@
+*{
+    font-family: 'Helvetica', sans-serif;
+}
+
+.blue-text{
+    color: blue;
+}
+
+.red-text{
+    color: red;
+}
+
+.contact-form-input{
+    display: block;
+    margin: 1em;
+    padding: 1em;
+}
+
+nav {
+    background-color:lightblue
+}
+
+nav > a {
+    color: black;
+    display: inline-block;
+    margin: 1em;
+    text-decoration: none;
+}
+
+nav > a:hover{
+    color: seagreen;
+}
+
+.dark-mode{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.wide-input{
+    width: 50vw;
+}
